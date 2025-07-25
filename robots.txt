@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hitnspin.xgmb.site/sitemap.xml
